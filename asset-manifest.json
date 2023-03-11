@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Musicdashboard/static/css/main.a3a831e3.css",
+    "main.js": "/Musicdashboard/static/js/main.ebfff965.js",
+    "index.html": "/Musicdashboard/index.html",
+    "main.a3a831e3.css.map": "/Musicdashboard/static/css/main.a3a831e3.css.map",
+    "main.ebfff965.js.map": "/Musicdashboard/static/js/main.ebfff965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a831e3.css",
+    "static/js/main.ebfff965.js"
+  ]
+}
